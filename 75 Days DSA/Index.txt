@@ -12,4 +12,10 @@ Day 11: Set Matrices to Zero
 Day 12: Spiral Matrix
 Day 13: Rotate Inage
 Day 14: Word Search
+Day 15: Longest Substring without repeating characters
+Day 16: Longest repeating character replacement
+Day 17: Minimum window Substring
+Day 18: Valid Anagram
+Day 19: Group Anagram
+Day 20: Valid Parentheses
 
