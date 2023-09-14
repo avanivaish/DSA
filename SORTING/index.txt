@@ -1,0 +1,8 @@
+1. Selection Sort
+2. Insertion Sort
+3. Bubble Sort
+4. Merge Sort
+5. Quick Sort
+6. Count Sort
+7. DNF Sort
+8. Wave Sort
