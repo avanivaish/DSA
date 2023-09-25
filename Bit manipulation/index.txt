@@ -1,0 +1,9 @@
+1. clear bit
+2. get bit
+3. set bit
+4. count no.of ones
+5. power of two
+6. subsets
+7. unique num in array
+8. unique num in array 1
+9. update bit
