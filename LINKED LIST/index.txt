@@ -3,3 +3,10 @@
 3. Deletion in LL
 4. Reverse LL (iterative)
 5. Reverse LL (recursive)
+6. Reverse K Nodes
+7. Insert at pos in LL
+8. Cycle in LL
+9. Basic Doubly LL
+10. K append LL
+11. Merge two LL
+12. Intersection of two LL
