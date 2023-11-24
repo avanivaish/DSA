@@ -1,3 +1,4 @@
 1. SieveOfEratosthenes.cpp
 2. primeFactors.cpp
 3. gcd.cpp
+4. pascalTriangle.cpp
