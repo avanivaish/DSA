@@ -10,8 +10,18 @@
 10. K append LL
 11. Merge two LL
 12. Intersection of two LL
+13. Circular LL
+14. Even nodes after odd nodes
+15. Doubly Circular LL
+16. Middle of LL
+17. Remove dupplicates from sorted LL
+18. Remove dupplicates from unsorted LL
+19. Remove dupplicates from sorted LL 2
+20. Remove nth node from end
+21. Sort 0s and 1s
+22. Check Palindrome in LL
+23. Add two LL
+24. Clone LL with next and random pointer
+25. Merge Sort LL
 
 
-
-Merge Sort LL
-Add two LL
