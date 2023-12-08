@@ -2,3 +2,9 @@
 2. primeFactors.cpp
 3. gcd.cpp
 4. pascalTriangle.cpp
+5. twoSum.cpp
+5. threeSum.cpp
+6. increasingTripletSubsequence.cpp
+7. longestOnes.cpp
+8. medianSortedArrays.cpp
+9. moveZeroes.cpp
