@@ -1,1 +1,2 @@
 1. Palindrome Number 
+2. Count Primes
