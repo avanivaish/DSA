@@ -3,8 +3,8 @@
 3. gcd.cpp
 4. pascalTriangle.cpp
 5. twoSum.cpp
-5. threeSum.cpp
-6. increasingTripletSubsequence.cpp
-7. longestOnes.cpp
-8. medianSortedArrays.cpp
-9. moveZeroes.cpp
+6. threeSum.cpp
+7. increasingTripletSubsequence.cpp
+8. longestOnes.cpp
+9. medianSortedArrays.cpp
+10. moveZeroes.cpp
