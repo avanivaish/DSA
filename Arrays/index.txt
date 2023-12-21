@@ -11,3 +11,4 @@
 11. suarrayKSum.cpp
 12. maxPrdOfTwoElements.cpp
 13. maxPrdDifference.cpp
+14. maxVerticalArea.cpp  
