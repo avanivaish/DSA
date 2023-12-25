@@ -1,3 +1,4 @@
 1. Transpose Matrix
 2. Special Position in Binary Matrix
 3. Difference between ones and zeroes in rows and columns
+4. Determinant of a Matrix
