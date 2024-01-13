@@ -23,5 +23,6 @@
 23. Add two LL
 24. Clone LL with next and random pointer
 25. Merge Sort LL
+26. Insertion Sort LL
 
 
