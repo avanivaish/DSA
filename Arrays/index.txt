@@ -14,3 +14,4 @@
 14. maxVerticalArea.cpp  
 15. convertTo2DArray.cpp    
 16. longestIncreasingSubsequence.cpp
+17. uniqueOccurances.cpp
