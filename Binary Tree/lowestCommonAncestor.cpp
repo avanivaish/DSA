@@ -47,7 +47,22 @@ int LCA (Node * root, int n1, int n2){
   return path1[pc - 1];
 }
 
-
+Node* LCA2(Node* root, int n1, int n2){
+    if(root==NULL) return NULL;
+    if(root->data == n1 || root->data == n2){
+        return root;
+    }
+    Node* leftLCA = LCA2(root->left, n2, n1);
+    Node* rightLCA = LCA2(root->right, n2, n1);
+    
+    if(leftLCA && rightLCA){
+        return root;
+    }
+    if(leftLCA != NULL){
+        return leftLCA;
+    }
+    return rightLCA;
+}
 
 int main (){
   Node *root = new Node (1);
@@ -67,6 +82,13 @@ int main (){
   else
 	{
 	  cout << "LCA: " << lca << endl;
+	}
+	
+	Node* lca2 = LCA2(root, n1, n2);
+	if(lca2==NULL){
+	    cout<<"LCA does'nt exist"<<endl;
+	}else{
+	    cout<<"LCA: "<<lca2->data<<endl;
 	}
   return 0;
 }
