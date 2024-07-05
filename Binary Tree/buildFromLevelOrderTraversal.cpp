@@ -90,6 +90,7 @@ void buildFromLevelOrdertraversal(Node* &root){
     //root = buildTree(root);
     //1 3 7 -1 -1 11 -1 -1 5 17 -1 -1 -1 
     //creating a tree using level order traversal 
+    //1 3 5 7 11 17 -1 -1 -1 -1 -1 -1 -1
     buildFromLevelOrdertraversal(root);
     //level order traversal 
     cout<<"Level Order Traversal: "<<endl;
